@@ -5,4 +5,4 @@ Using: HTML, CSS, JS and Bootstrap
 
 ## Link to my project
 
-[Todo List](https://lassrenzo.github.io/Dice/)
+[Dice Game](https://lassrenzo.github.io/Dice/)
