@@ -1,5 +1,5 @@
 # Dice
-An random dice game
+A random dice game
 
 Using: HTML, CSS, JS and Bootstrap
 
