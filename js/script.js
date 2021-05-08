@@ -16,8 +16,8 @@ image2.setAttribute("src", randomImageSource2);
 // IF PLAYER 1 WINS
 if (randomImage1 > randomImage2) { 
   document.querySelector('h1').innerHTML = 'DICE #' + randomPicture1 + ' WINS!';
-  document.querySelector('.p1').innerHTML = "🏳️<strong>PLAYER 1 WINS!</strong>";
-  document.querySelector('.p2').innerHTML = "🚩<strike>PLAYER 2</strike>";
+  document.querySelector('.p1').innerHTML = "🚩<strong>PLAYER 1 WINS!</strong>";
+  document.querySelector('.p2').innerHTML = "🏳️<strike>PLAYER 2</strike>";
 }
 // IF PLAYER 2 WINS
 else if (randomImage2 > randomImage1) {
