@@ -49,7 +49,7 @@ else if (randomImage1 == Two && randomImage2 == Three || randomImage1 == Three &
 // IF DICE #4 WINS
 if (randomImage1 == Three && randomImage2 == Four || randomImage1 == Four && randomImage2 == Three ||
 	randomImage1 == Two && randomImage2 == Four || randomImage1 == Four && randomImage2 == Two ||
-	randomImage1 == One && randomImage2 == Four || randomImage1 == Four && randomImage2 == Two) 
+	randomImage1 == One && randomImage2 == Four || randomImage1 == Four && randomImage2 == One) 
 {
 	document.querySelector("h1").innerHTML = "DICE #4 WINS!";
 }
